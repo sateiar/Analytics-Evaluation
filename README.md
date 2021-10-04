@@ -20,3 +20,13 @@ b. A graphical analysis of the additives, including a distribution study.
 c. A clustering test of your choice (unsupervised learning), to determine the distinctive number
 of formulations present in the dataset.
 (refer attachment : ingredients.csv)
+2. A team of plantation planners are concerned about the yield of oil palm trees, which seems to
+fluctuate. They have collected a set of data and needed help in analysing on how external
+factors influence fresh fruit bunch (FFB) yield. Some experts are of opinion that the flowering of
+oil palm tree determines the FFB yield, and are linked to the external factors. Perform the
+analysis, which requires some study on the background of oil palm tree physiology.
+(refer attachment palm_ffb.csv)
+3. Feed the following paragraph into your favourite data analytics tool, and answer the following;
+a. What is the probability of the word “data” occurring in each line ?
+b. What is the distribution of distinct word counts across all the lines ?
+c. What is the probability of the word “analytics” occurring after the word “data” ?
